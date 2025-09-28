@@ -5,3 +5,15 @@
 *.ipr
 *.lock
 rebel.xml
+
+### maven ###
+target/
+*.war
+*.ear
+*.zip
+*.tar
+*.tar.gz
+
+### logs ####
+/logs/
+*.log
